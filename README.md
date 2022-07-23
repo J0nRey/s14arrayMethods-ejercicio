@@ -1,6 +1,7 @@
 # s14arrayMethods-ejercicio
 Ejercicios con Funciones y Métodos de Array
 
+/*
 usando mentorsArray, realizar lo siguiente:
 -Obtener el score promedio de cada materia( HTML, CSS, JS, ReactJS )
 -Obtener el promedio individual de cada mentor
